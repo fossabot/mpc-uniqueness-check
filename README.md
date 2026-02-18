@@ -1,4 +1,6 @@
 # MPC Uniqueness Check
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fmpc-uniqueness-check.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fmpc-uniqueness-check?ref=badge_shield)
+
 
 The MPC Uniqueness Check is a secure multi-party computation (SMPC) protocol that powers the matching engine behind Worldcoin's [iris recognition inference system](https://worldcoin.org/blog/engineering/iris-recognition-inference-system). SMPC is used to calculate a fractional hamming distance to determine uniqueness of a given iris code. A detailed specification of the iris code SMPC can be found [here](docs/specification.ipynb).
 
@@ -126,3 +128,6 @@ at your option. This means you may select the license you prefer to use.
 Any contribution intentionally submitted for inclusion in the work by you, as
 defined in the Apache-2.0 license, shall be dual licensed as above, without any
 additional terms or conditions.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fmpc-uniqueness-check.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fmpc-uniqueness-check?ref=badge_large)
